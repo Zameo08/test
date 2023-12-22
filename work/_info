@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/DELL/Desktop/Digital Design/Verification/Code/Lab 2
+T_opt
+!s110 1701921502
+VbURk:Vb?3i2gk[2^R613>2
+04 3 4 work top fast 0
+=1-60189529a6d6-657142de-126-3948
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1701921829
+VLAD?:7zB73RzAMmO3_XbH2
+04 6 4 work top_tb fast 0
+=1-60189529a6d6-65714425-12a-1edc
+R1
+R2
+n@_opt1
+R3
+vtop
+Z4 !s110 1701921809
+!i10b 1
+!s100 10^335;0U`fdAW0CzF30B1
+ITUQQ;84UO5L07fT0MTgQl1
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dD:/counter 6
+w1701921412
+8D:/counter 6/top.v
+FD:/counter 6/top.v
+L0 1
+Z7 OL;L;10.5;63
+r1
+!s85 0
+31
+Z8 !s108 1701921809.000000
+!s107 D:/counter 6/top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/counter 6/top.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vtop_tb
+R4
+!i10b 1
+!s100 FGod96HlcZ=eWEoX45i<i0
+Idz>3=b<W`ii[l>g6i;^R>0
+R5
+R6
+w1701921788
+Z10 8D:/counter 6/tb.v
+Z11 FD:/counter 6/tb.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/counter 6/tb.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/counter 6/tb.v|
+!i113 0
+R9
+R2
+vtop_test
+!s110 1701921563
+!i10b 1
+!s100 1Pa[M8h5mK]ChdW_30[E?1
+ICS?kWQBRo]jdKP4:bRaLl3
+R5
+R6
+w1701921409
+R10
+R11
+L0 1
+R7
+r1
+!s85 0
+31
+!s108 1701921563.000000
+R12
+R13
+!i113 0
+R9
+R2

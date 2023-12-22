@@ -1,0 +1,15 @@
+{D:/counter 6/tb.v} {1 {vlog -work work -vopt -stats=none {D:/counter 6/tb.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} {D:/counter 6/top.v} {1 {vlog -work work -vopt -stats=none {D:/counter 6/top.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}}
